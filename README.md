@@ -1,4 +1,4 @@
-# watchlist-gaps
+# Watchlist Gaps
 
 Find the movies on your Letterboxd watchlist that you can't stream on the
 services you already have.
